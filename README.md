@@ -1,7 +1,7 @@
 # Python_Connect_Four_Intelligence
 Creates an Artificial Intelligence that learns to play the game Connect Four
 
-Please see the following link for more Project Info https://docs.google.com/document/d/e/2PACX-1vTxHv3hTIlb9A_y3NT-i7AtdKYCOTC2U10lOTCCrGAMHjIO9K5I0-T1SgQYG-B9q1JMzEeH7sjzfrhS/pub
+Please see the following link for more Project Info https://tinyurl.com/NickPatrickProductions
 
 The following names are not finalized, and will be confirmed with each team member before being coded.
 Each object listed here may need smaller objects to assist its functionality.
